@@ -4,7 +4,7 @@ package com.icicibank;
  * Hello world!
  *
  */
-public class App 
+public class One
 {
     public static void main( String[] args )
     {
